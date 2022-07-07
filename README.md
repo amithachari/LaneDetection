@@ -30,4 +30,5 @@ Fit the coordinates into two second order polynomials that represent right and l
 1. cd catkin_ws
 2. source devel/setup.bash
 3. roslaunch mp1 mp1.launch
-4. python3 main.py
+4. python3 studenVision.py
+5. python3 main.py
