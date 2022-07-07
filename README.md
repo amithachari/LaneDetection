@@ -21,3 +21,9 @@ Lane fitting: Extracted the coordinates of the centers of right and left lane fr
 Fit the coordinates into two second order polynomials that represent right and left lane.
 
 ![image](https://user-images.githubusercontent.com/64373075/177688522-94b7586f-cd2a-4147-a9d3-856d61c2ae2c.png)
+
+# Steps to Run the Project
+1. cd catkin_ws
+2. source devel/setup.bash
+3. roslaunch mp1 mp1.launch
+4. python3 main.py
